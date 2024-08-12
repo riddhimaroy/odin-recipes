@@ -1,0 +1,19 @@
+*{
+    background-color: darkgrey;
+}
+h1{
+    font-family: 'Garamond';
+    color: white;
+}
+
+img{
+    height: 400px;
+    padding: 20px;
+
+}
+
+li{
+    font-family: 'Garamond';
+    font-size: 20px;
+    color: white;
+}
