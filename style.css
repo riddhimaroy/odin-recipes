@@ -1,19 +1,27 @@
 *{
-    background-color: darkgrey;
+    background-color: white;
+    border: 20px red;
+    box-sizing: border-box;
 }
 h1{
     font-family: 'Garamond';
-    color: white;
+    color: black;
+   
 }
 
 img{
     height: 400px;
     padding: 20px;
-
+   
 }
 
 li{
     font-family: 'Garamond';
     font-size: 20px;
     color: white;
+}
+.type{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
 }
